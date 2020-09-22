@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Manan Patel
 
 
-I am a student at SRM institute of science and engineering pursuing my B.TECH degree in computer science and engineering. I am a full stack developer and also I am a Android App developer.
-
 ![I am Full stack developer.](https://pbs.twimg.com/profile_banners/838443363988746240/1600755876/1080x360)
 
 I am a student at SRM institute of science and engineering pursuing my B.TECH degree in computer science and engineering. I am a full stack developer and also I am a Android App developer.
