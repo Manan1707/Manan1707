@@ -9,10 +9,5 @@ I am a student at SRM institute of science and engineering pursuing my B.TECH de
 * ⚛️ HTML/css
 * 📱 Android Apps
 * 💻 Javascript
-
-- 🔭 I’m currently working on Android App in Android Studio. 
-- 🌱 I’m currently learning Javascript and Jquery. 
-- 🤔 I’m looking for help with Web Design. 
-- 😄 Pronouns: Manan 
-
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manan1707)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manan-patel-a61a94179/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100013858212620)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manan_17_07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Manan1707)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mananpatel.netlify.app/)  
