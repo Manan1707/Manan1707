@@ -1,7 +1,7 @@
 ![I am Full stack developer.](https://raw.githubusercontent.com/Manan1707/Manan1707/master/Manan_banner.png)
 
 # Hi there 👋, I am Manan Patel
-I am a student at SRM institute of science and engineering pursuing my B.TECH degree in computer science and engineering. I am a full stack developer and also I am a Android App developer.
+I am a student at SRM institute of science and engineering pursuing my B.TECH degree in computer science and engineering. I am a full stack developer and also I am a Android App developer. Currently, I am working on the Deep learning based projects and also woring on the natural language processing which is a part of the machine learning.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manan1707)](https://github.com/anuraghazra/github-readme-stats)
 
